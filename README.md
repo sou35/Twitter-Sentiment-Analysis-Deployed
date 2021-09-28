@@ -1,5 +1,5 @@
 <!---
-sou35/sou35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sou35/Sentiment Analysis in Twitter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 Sentiment Analysis in Twitter!
