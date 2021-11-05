@@ -33,11 +33,11 @@ st.subheader("Select a topic which you'd like to get the sentiment analysis on :
 
 ##### TWITTER API connection #######
 
-consumer_key="Iev#########l"
-consumer_secret="SskcIr###########IrUIBhdkZeOH7JGE2SoM9"
-access_token="1394#####################NaZzsu4n"
-access_token_secret="NO5vH7##############4DMA"
 
+consumer_key="Ievvx6xKz38neB78JBg0GBoxl"
+consumer_secret="SskcIrCedDELpE7PGgz820HbSyixoIrUIBhdkZeOH7JGE2SoM9"
+access_token="1394858173476052995-8PMCa1g1gQd1QFI4teI6xKNaZzsu4n"
+access_token_secret="NO5vH7uR29b4NqcpvheZzlmOP4A46gZxLMvfa9I7u4DMA"
 #use the above credentials to authenticate the API.
 
 auth =tweepy.OAuthHandler(consumer_key,consumer_secret)
