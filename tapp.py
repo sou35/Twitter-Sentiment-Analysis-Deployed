@@ -22,7 +22,7 @@ st.set_option('deprecation.showPyplotGlobalUse',False)
 st.title("Twitter Sentiment analysis")
 
 from PIL import Image
-image=Image.open('Hero-Twitter-search.png')
+image=Image.open('https://github.com/sou35/Twitter-Sentiment-Analysis-Deployed/blob/main/Hero-Twitter-search.png')
 st.image(image,caption='Twitter for Analytics',use_column_width=True)
     
 html_temp ="""
